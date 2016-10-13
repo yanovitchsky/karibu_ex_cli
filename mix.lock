@@ -1,6 +1,6 @@
 %{"cachex": {:hex, :cachex, "1.2.2", "4a74564b6611fae2478d7604f1159749c9c6d1e884c849218db29e8d11a61bba", [:mix], [{:eternal, "~> 1.0", [hex: :eternal, optional: false]}]},
   "certifi": {:hex, :certifi, "0.4.0", "a7966efb868b179023618d29a407548f70c52466bf1849b9e8ebd0e34b7ea11f", [:rebar3], []},
-  "convulse": {:git, "git@gitlab.visibleo.fr:visibleornd/convulse-ex.git", "9f7c7a1d8847f71ba34ab207b4cb40948d30c8b5", []},
+  "convulse": {:git, "git@gitlab.visibleo.fr:visibleornd/convulse-ex.git", "e9dae8b6b88b9b79861296914411e012db962df0", []},
   "czmq": {:git, "https://github.com/gar1t/erlang-czmq.git", "50605c06a63fd178affdbf620ed63f7ced56bc3d", []},
   "deppie": {:hex, :deppie, "1.0.0", "ec1207cdadf7c81aea171cb8acc68fc0eb1a8f6015ad785e6b5001dbb2a7d7ea", [:mix], []},
   "espec": {:hex, :espec, "0.8.28", "f002710673d215876c4ca6fc74cbf5e330954badea7389d2284d2050940f1779", [:mix], [{:meck, "~> 0.8.4", [hex: :meck, optional: false]}]},
