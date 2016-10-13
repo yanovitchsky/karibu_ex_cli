@@ -53,7 +53,10 @@ defmodule KaribuexCli.Client do
 
   defp discover(service_name) do
     case Convulse.discover(service_name) do
-      {:ok, map} -> {:ok, "#{map[:address]}:#{map[:port]}"}
+      {:ok, list} ->
+        :random.seed(:erlang.now)
+        map = Enum.random(list)
+        {:ok, "#{map[:address]}:#{map[:port]}"}
       {:error, reason} -> {:error, reason}
     end
   end
