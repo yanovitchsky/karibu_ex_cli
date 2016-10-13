@@ -28,3 +28,16 @@ use Mix.Config
 # here (which is why it is important to import them last).
 #
 #     import_config "#{Mix.env}.exs"
+
+
+config :karibuex_cli, services: %{
+  mercure_service: "" ,
+  sap_bridge: "192.168.0.1:9000",
+  my_test: "127.0.0.1:5000"
+}
+
+config :karibuex_cli, pool_size: 10
+# config :karibuex_cli, services: [
+#   :mercure_service,
+#   :sap_bridge
+# ]

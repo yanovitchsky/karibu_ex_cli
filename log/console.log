@@ -1,0 +1,1505 @@
+2016-10-07 16:45:51.085 [error] <0.205.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.210.0> exit with reason normal in context child_terminated
+2016-10-07 16:45:51.110 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-07 16:45:51.112 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-07 16:45:51.115 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-07 16:45:51.117 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-07 16:45:51.119 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-07 16:45:51.125 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-07 16:45:51.127 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-07 16:45:51.128 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-07 16:45:51.130 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-07 16:45:51.132 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-07 16:45:51.145 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-07 16:45:51.145 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-07 16:45:51.269 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-07 16:45:51.271 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-07 16:45:51.271 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-07 16:45:51.284 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-07 16:45:51.320 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-07 16:45:51.320 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-07 16:45:51.325 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 11:48:47.654 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 11:48:47.676 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 11:48:47.678 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 11:48:47.682 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 11:48:47.685 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 11:48:47.688 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 11:48:47.694 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 11:48:47.695 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 11:48:47.697 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 11:48:47.699 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 11:48:47.700 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 11:48:47.715 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 11:48:47.715 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 11:48:47.840 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 11:48:47.842 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 11:48:47.843 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 11:48:47.859 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 11:48:47.902 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 11:48:47.902 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 11:48:47.908 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 11:49:31.579 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 11:49:31.605 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 11:49:31.607 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 11:49:31.610 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 11:49:31.613 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 11:49:31.616 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 11:49:31.622 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 11:49:31.624 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 11:49:31.625 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 11:49:31.627 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 11:49:31.629 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 11:49:31.649 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 11:49:31.649 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 11:49:31.802 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 11:49:31.805 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 11:49:31.805 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 11:49:31.823 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 11:49:31.867 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 11:49:31.867 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 11:49:31.873 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 11:49:57.854 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 11:49:57.876 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 11:49:57.879 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 11:49:57.883 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 11:49:57.885 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 11:49:57.887 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 11:49:57.892 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 11:49:57.894 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 11:49:57.896 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 11:49:57.897 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 11:49:57.899 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 11:49:57.914 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 11:49:57.914 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 11:49:58.036 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 11:49:58.039 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 11:49:58.039 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 11:49:58.055 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 11:49:58.096 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 11:49:58.096 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 11:49:58.102 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 11:57:27.795 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 11:57:27.819 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 11:57:27.821 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 11:57:27.825 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 11:57:27.826 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 11:57:27.829 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 11:57:27.834 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 11:57:27.836 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 11:57:27.838 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 11:57:27.839 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 11:57:27.841 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 11:57:27.857 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 11:57:27.857 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 11:57:27.982 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 11:57:27.985 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 11:57:27.985 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 11:57:28.001 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 11:57:28.044 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 11:57:28.044 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 11:57:28.049 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 11:58:29.145 [error] <0.209.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.214.0> exit with reason normal in context child_terminated
+2016-10-11 11:58:29.170 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 11:58:29.172 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 11:58:29.176 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 11:58:29.178 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 11:58:29.180 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 11:58:29.185 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 11:58:29.186 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 11:58:29.188 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 11:58:29.189 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 11:58:29.190 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 11:58:29.205 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 11:58:29.205 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 11:58:29.322 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 11:58:29.324 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 11:58:29.325 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 11:58:29.337 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 11:58:29.373 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 11:58:29.373 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:00:12.785 [error] <0.141.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.146.0> exit with reason normal in context child_terminated
+2016-10-11 12:00:12.807 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:00:12.809 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:00:12.812 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:00:12.814 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:00:12.816 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:00:12.822 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:00:12.825 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:00:12.826 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:00:12.829 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:00:12.831 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:00:12.845 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:00:12.845 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:00:12.968 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:00:12.970 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:00:12.970 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:00:12.990 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:00:13.042 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:00:13.042 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:00:13.049 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:01:14.915 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 12:01:14.940 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:01:14.941 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:01:14.945 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:01:14.947 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:01:14.949 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:01:14.955 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:01:14.957 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:01:14.959 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:01:14.960 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:01:14.962 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:01:14.979 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:01:14.979 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:01:15.103 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:01:15.105 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:01:15.106 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:01:15.123 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:01:15.165 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:01:15.166 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:01:15.172 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:02:19.400 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 12:02:19.423 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:02:19.425 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:02:19.428 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:02:19.430 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:02:19.432 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:02:19.438 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:02:19.440 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:02:19.441 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:02:19.443 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:02:19.445 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:02:19.461 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:02:19.461 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:02:19.577 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:02:19.580 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:02:19.580 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:02:19.596 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:02:19.637 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:02:19.637 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:02:19.644 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:02:41.633 [error] <0.153.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.158.0> exit with reason normal in context child_terminated
+2016-10-11 12:02:41.652 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:02:41.654 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:02:41.656 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:02:41.658 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:02:41.661 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:02:41.666 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:02:41.668 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:02:41.670 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:02:41.671 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:02:41.673 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:02:41.683 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:02:41.683 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:02:41.782 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:02:41.785 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:02:41.785 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:02:41.797 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:02:41.829 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:02:41.829 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:02:41.836 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:04:57.314 [error] <0.158.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.163.0> exit with reason normal in context child_terminated
+2016-10-11 12:04:57.340 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:04:57.341 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:04:57.345 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:04:57.346 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:04:57.349 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:04:57.356 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:04:57.358 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:04:57.360 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:04:57.362 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:04:57.364 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:04:57.377 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:04:57.377 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:04:57.501 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:04:57.503 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:04:57.503 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:04:57.518 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:04:57.561 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:04:57.561 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:04:57.566 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:06:42.278 [error] <0.141.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.146.0> exit with reason normal in context child_terminated
+2016-10-11 12:06:42.299 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:06:42.301 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:06:42.304 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:06:42.306 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:06:42.308 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:06:42.314 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:06:42.316 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:06:42.317 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:06:42.319 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:06:42.321 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:06:42.336 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:06:42.336 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:06:42.446 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:06:42.449 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:06:42.449 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:06:42.467 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:06:42.516 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:06:42.516 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:06:42.522 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:07:09.261 [error] <0.141.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.146.0> exit with reason normal in context child_terminated
+2016-10-11 12:07:09.281 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:07:09.283 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:07:09.286 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:07:09.288 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:07:09.290 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:07:09.296 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:07:09.298 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:07:09.299 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:07:09.300 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:07:09.302 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:07:09.313 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:07:09.314 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:07:09.418 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:07:09.420 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:07:09.420 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:07:09.435 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:07:09.478 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:07:09.478 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:07:09.483 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:08:38.197 [error] <0.141.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.146.0> exit with reason normal in context child_terminated
+2016-10-11 12:08:38.219 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:08:38.222 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:08:38.226 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:08:38.228 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:08:38.230 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:08:38.236 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:08:38.238 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:08:38.239 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:08:38.241 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:08:38.243 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:08:38.257 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:08:38.258 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:08:38.375 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:08:38.377 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:08:38.377 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:08:38.395 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:08:38.441 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:08:38.441 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:08:38.447 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:10:35.762 [error] <0.141.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.146.0> exit with reason normal in context child_terminated
+2016-10-11 12:10:35.785 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:10:35.787 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:10:35.791 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:10:35.793 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:10:35.795 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:10:35.801 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:10:35.803 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:10:35.804 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:10:35.806 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:10:35.808 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:10:35.822 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:10:35.822 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:10:35.948 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:10:35.950 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:10:35.950 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:10:35.968 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:10:36.015 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:10:36.015 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:10:36.021 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:11:05.775 [error] <0.141.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.146.0> exit with reason normal in context child_terminated
+2016-10-11 12:11:05.794 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:11:05.796 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:11:05.799 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:11:05.803 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:11:05.805 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:11:05.811 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:11:05.813 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:11:05.814 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:11:05.816 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:11:05.818 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:11:05.829 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:11:05.829 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:11:05.934 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:11:05.936 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:11:05.936 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:11:05.953 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:11:05.989 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:11:05.989 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:11:05.995 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:14:32.546 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 12:14:32.572 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:14:32.575 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:14:32.579 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:14:32.585 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:14:32.588 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:14:32.595 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:14:32.598 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:14:32.600 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:14:32.602 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:14:32.604 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:14:32.620 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:14:32.620 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:14:32.755 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:14:32.758 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:14:32.758 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:14:32.776 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:14:32.823 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:14:32.823 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:14:32.831 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:15:03.164 [error] <0.165.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.170.0> exit with reason normal in context child_terminated
+2016-10-11 12:15:03.191 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:15:03.192 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:15:03.196 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:15:03.198 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:15:03.200 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:15:03.205 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:15:03.207 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:15:03.208 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:15:03.210 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:15:03.211 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:15:03.225 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:15:03.226 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:15:03.346 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:15:03.349 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:15:03.349 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:15:03.366 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:15:03.409 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:15:03.409 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:19:21.994 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 12:19:22.017 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:19:22.019 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:19:22.022 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:19:22.025 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:19:22.027 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:19:22.034 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:19:22.036 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:19:22.038 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:19:22.039 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:19:22.041 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:19:22.056 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:19:22.056 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:19:22.175 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:19:22.177 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:19:22.177 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:19:22.192 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:19:22.232 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:19:22.232 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:19:22.238 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:20:29.620 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 12:20:29.645 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:20:29.646 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:20:29.652 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:20:29.655 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:20:29.657 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:20:29.663 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:20:29.665 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:20:29.667 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:20:29.668 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:20:29.670 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:20:29.686 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:20:29.686 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:20:29.811 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:20:29.814 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:20:29.814 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:20:29.831 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:20:29.870 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:20:29.870 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:20:29.876 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:21:19.971 [error] <0.158.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.163.0> exit with reason normal in context child_terminated
+2016-10-11 12:21:19.990 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:21:19.992 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:21:19.995 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:21:19.997 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:21:20.000 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:21:20.005 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:21:20.007 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:21:20.008 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:21:20.009 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:21:20.011 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:21:20.022 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:21:20.022 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:21:20.126 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:21:20.128 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:21:20.128 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:21:20.146 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:21:20.185 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:21:20.185 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:30:17.224 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 12:30:17.249 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:30:17.251 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:30:17.255 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:30:17.257 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:30:17.259 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:30:17.265 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:30:17.266 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:30:17.268 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:30:17.269 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:30:17.271 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:30:17.286 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:30:17.287 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:30:17.419 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:30:17.421 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:30:17.421 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:30:17.439 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:30:17.485 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:30:17.485 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:30:17.492 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:32:25.600 [error] <0.158.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.163.0> exit with reason normal in context child_terminated
+2016-10-11 12:32:25.624 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:32:25.625 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:32:25.629 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:32:25.631 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:32:25.634 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:32:25.641 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:32:25.643 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:32:25.644 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:32:25.646 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:32:25.648 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:32:25.663 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:32:25.663 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:32:25.785 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:32:25.787 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:32:25.787 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:32:25.802 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:32:25.842 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:32:25.842 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:47:23.709 [error] <0.152.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.157.0> exit with reason normal in context child_terminated
+2016-10-11 12:47:23.734 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:47:23.736 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:47:23.740 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:47:23.742 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:47:23.744 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:47:23.749 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:47:23.751 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:47:23.753 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:47:23.755 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:47:23.756 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:47:23.775 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:47:23.775 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:47:23.901 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:47:23.904 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:47:23.904 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:47:23.923 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:47:23.965 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:47:23.965 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:47:23.972 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 12:47:46.919 [error] <0.141.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.146.0> exit with reason normal in context child_terminated
+2016-10-11 12:47:46.938 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 12:47:46.940 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 12:47:46.942 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 12:47:46.945 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 12:47:46.947 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 12:47:46.953 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 12:47:46.955 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 12:47:46.956 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 12:47:46.958 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 12:47:46.960 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 12:47:46.972 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 12:47:46.973 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 12:47:47.080 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 12:47:47.082 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 12:47:47.082 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 12:47:47.097 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 12:47:47.137 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 12:47:47.137 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 12:47:47.142 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 17:13:22.262 [error] <0.267.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.272.0> exit with reason normal in context child_terminated
+2016-10-11 17:13:22.288 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 17:13:22.290 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 17:13:22.294 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 17:13:22.298 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 17:13:22.302 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 17:13:22.310 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 17:13:22.313 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 17:13:22.317 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 17:13:22.320 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 17:13:22.323 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 17:13:22.347 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 17:13:22.347 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 17:13:22.485 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 17:13:22.490 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 17:13:22.490 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 17:13:22.505 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 17:13:22.545 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 17:13:22.546 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 17:13:22.553 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 17:14:17.876 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-11 17:14:17.898 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 17:14:17.900 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 17:14:17.904 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 17:14:17.906 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 17:14:17.910 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 17:14:17.916 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 17:14:17.919 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 17:14:17.921 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 17:14:17.922 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 17:14:17.924 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 17:14:17.938 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 17:14:17.938 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 17:14:18.057 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 17:14:18.059 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 17:14:18.059 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 17:14:18.077 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 17:14:18.125 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 17:14:18.125 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 17:14:18.131 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 17:14:40.531 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-11 17:14:40.552 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 17:14:40.554 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 17:14:40.556 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 17:14:40.559 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 17:14:40.561 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 17:14:40.567 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 17:14:40.569 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 17:14:40.570 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 17:14:40.572 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 17:14:40.574 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 17:14:40.586 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 17:14:40.586 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 17:14:40.694 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 17:14:40.696 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 17:14:40.696 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 17:14:40.710 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 17:14:40.752 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 17:14:40.752 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 17:14:40.757 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 17:15:18.599 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-11 17:15:18.622 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 17:15:18.624 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 17:15:18.627 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 17:15:18.629 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 17:15:18.632 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 17:15:18.637 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 17:15:18.640 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 17:15:18.641 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 17:15:18.643 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 17:15:18.645 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 17:15:18.660 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 17:15:18.660 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 17:15:18.782 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 17:15:18.785 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 17:15:18.785 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 17:15:18.804 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 17:15:18.853 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 17:15:18.853 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 17:15:18.859 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 17:16:34.958 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-11 17:16:34.980 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 17:16:34.982 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 17:16:34.986 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 17:16:34.988 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 17:16:34.990 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 17:16:34.996 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 17:16:34.999 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 17:16:35.001 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 17:16:35.003 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 17:16:35.005 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 17:16:35.022 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 17:16:35.022 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 17:16:35.144 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 17:16:35.147 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 17:16:35.147 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 17:16:35.166 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 17:16:35.214 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 17:16:35.214 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 17:16:35.221 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-11 17:16:47.875 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-11 17:16:47.896 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-11 17:16:47.898 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-11 17:16:47.902 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-11 17:16:47.906 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-11 17:16:47.908 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-11 17:16:47.914 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-11 17:16:47.916 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-11 17:16:47.918 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-11 17:16:47.920 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-11 17:16:47.922 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-11 17:16:47.936 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-11 17:16:47.936 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-11 17:16:48.062 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-11 17:16:48.065 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-11 17:16:48.065 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-11 17:16:48.084 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-11 17:16:48.133 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-11 17:16:48.133 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-11 17:16:48.140 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-12 11:22:57.447 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-12 11:22:57.472 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-12 11:22:57.474 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-12 11:22:57.478 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-12 11:22:57.480 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-12 11:22:57.482 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-12 11:22:57.488 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-12 11:22:57.490 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-12 11:22:57.492 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-12 11:22:57.494 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-12 11:22:57.496 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-12 11:22:57.511 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-12 11:22:57.511 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-12 11:22:57.634 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-12 11:22:57.636 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-12 11:22:57.636 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-12 11:22:57.658 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-12 11:22:57.705 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-12 11:22:57.705 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-12 11:22:57.711 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 11:34:58.454 [error] <0.227.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.232.0> exit with reason normal in context child_terminated
+2016-10-13 11:34:58.491 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:34:58.493 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:34:58.498 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:34:58.500 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:34:58.502 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:34:58.509 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:34:58.511 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:34:58.513 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:34:58.516 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:34:58.518 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:34:58.536 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:34:58.536 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:34:58.665 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:34:58.667 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:34:58.668 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:34:58.682 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:34:58.723 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:34:58.732 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:35:34.630 [error] <0.353.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{noproc,{gen_server,call,[requester_pool,{checkout,#Ref<0.0.1.67>,true},5000]}},[{erlang,send,[requester_pool,{'$gen_cast',{cancel_waiting,#Ref<0.0.1.67>}},[noconnect]],[]},{gen_server,do_send,2,[{file,"gen_server.erl"},{line,416}]},{gen_server,do_cast,2,[{file,"gen_server.erl"},{line,232}]},{poolboy,checkout,3,[{file,"src/poolboy.erl"},{line,58}]},{poolboy,transaction,3,[{file,"src/poolboy.erl"},{line,74}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,...},...]}
+2016-10-13 11:35:34.630 [error] <0.353.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: no such process or port in call to gen_server:call(requester_pool, {checkout,#Ref<0.0.1.67>,true}, 5000) in gen_server:terminate/7 line 826
+2016-10-13 11:35:34.630 [error] <0.330.0> Supervisor {<0.330.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.353.0> exit with reason no such process or port in call to gen_server:call(requester_pool, {checkout,#Ref<0.0.1.67>,true}, 5000) in context child_terminated
+2016-10-13 11:38:49.022 [error] <0.164.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.169.0> exit with reason normal in context child_terminated
+2016-10-13 11:38:49.044 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:38:49.046 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:38:49.050 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:38:49.052 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:38:49.054 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:38:49.060 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:38:49.061 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:38:49.063 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:38:49.065 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:38:49.067 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:38:49.080 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:38:49.080 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:38:49.192 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:38:49.195 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:38:49.195 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:38:49.212 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:38:49.257 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:38:49.275 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:38:55.933 [error] <0.290.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: bad argument in call to erlang:length(<<"127.0.0.1:5000">>) in 'Elixir.KaribuexCli.Client':get_connection_string/2 line 48
+2016-10-13 11:38:55.934 [error] <0.290.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: bad argument in call to erlang:length(<<"127.0.0.1:5000">>) in 'Elixir.KaribuexCli.Client':get_connection_string/2 line 48
+2016-10-13 11:38:55.934 [error] <0.267.0> Supervisor {<0.267.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.290.0> exit with reason bad argument in call to erlang:length(<<"127.0.0.1:5000">>) in 'Elixir.KaribuexCli.Client':get_connection_string/2 line 48 in context child_terminated
+2016-10-13 11:42:08.065 [error] <0.170.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.175.0> exit with reason normal in context child_terminated
+2016-10-13 11:42:08.089 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:42:08.091 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:42:08.095 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:42:08.097 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:42:08.099 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:42:08.104 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:42:08.106 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:42:08.108 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:42:08.109 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:42:08.111 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:42:08.125 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:42:08.125 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:42:08.238 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:42:08.240 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:42:08.241 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:42:08.256 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:42:08.327 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:42:08.342 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:42:14.654 [error] <0.294.0> gen_server <0.294.0> terminated with reason: no match of right hand value [{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22
+2016-10-13 11:42:14.654 [error] <0.294.0> CRASH REPORT Process <0.294.0> with 0 neighbours exited with reason: no match of right hand value [{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22 in gen_server:terminate/7 line 826
+2016-10-13 11:42:14.655 [error] <0.295.0> gen_server <0.295.0> terminated with reason: no match of right hand value [{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22
+2016-10-13 11:42:14.655 [error] <0.295.0> CRASH REPORT Process <0.295.0> with 0 neighbours exited with reason: no match of right hand value [{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22 in gen_server:terminate/7 line 826
+2016-10-13 11:42:14.660 [error] <0.296.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{{badmatch,[{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000]},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,22}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.294.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 11:42:14.661 [error] <0.296.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{{badmatch,[{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000]},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,22}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.294.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 11:42:14.661 [error] <0.275.0> Supervisor {<0.275.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.294.0> exit with reason no match of right hand value [{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22 in context child_terminated
+2016-10-13 11:42:14.661 [error] <0.273.0> Supervisor {<0.273.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.296.0> exit with reason {{{badmatch,[{<<"127">>,<<"0">>,<<"0">>,<<"1">>},5000]},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,22}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.294.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 11:43:21.302 [error] <0.164.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.169.0> exit with reason normal in context child_terminated
+2016-10-13 11:43:21.325 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:43:21.327 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:43:21.331 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:43:21.332 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:43:21.334 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:43:21.340 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:43:21.342 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:43:21.343 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:43:21.345 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:43:21.347 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:43:21.361 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:43:21.361 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:43:21.472 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:43:21.474 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:43:21.474 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:43:21.490 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:43:21.535 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:43:21.551 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:43:30.139 [error] <0.288.0> gen_server <0.288.0> terminated with reason: no match of right hand value [{127,0,0,1},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22
+2016-10-13 11:43:30.140 [error] <0.288.0> CRASH REPORT Process <0.288.0> with 0 neighbours exited with reason: no match of right hand value [{127,0,0,1},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22 in gen_server:terminate/7 line 826
+2016-10-13 11:43:30.140 [error] <0.289.0> gen_server <0.289.0> terminated with reason: no match of right hand value [{127,0,0,1},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22
+2016-10-13 11:43:30.145 [error] <0.290.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{{badmatch,[{127,0,0,1},5000]},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,22}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 11:43:30.145 [error] <0.289.0> CRASH REPORT Process <0.289.0> with 0 neighbours exited with reason: no match of right hand value [{127,0,0,1},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22 in gen_server:terminate/7 line 826
+2016-10-13 11:43:30.145 [error] <0.290.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{{badmatch,[{127,0,0,1},5000]},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,22}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 11:43:30.145 [error] <0.269.0> Supervisor {<0.269.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.288.0> exit with reason no match of right hand value [{127,0,0,1},5000] in 'Elixir.KaribuexCli.Requester':handle_call/3 line 22 in context child_terminated
+2016-10-13 11:43:30.146 [error] <0.267.0> Supervisor {<0.267.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.290.0> exit with reason {{{badmatch,[{127,0,0,1},5000]},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,22}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 11:44:02.981 [error] <0.164.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.169.0> exit with reason normal in context child_terminated
+2016-10-13 11:44:03.004 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:44:03.006 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:44:03.009 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:44:03.011 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:44:03.013 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:44:03.019 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:44:03.022 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:44:03.023 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:44:03.025 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:44:03.027 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:44:03.039 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:44:03.039 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:44:03.145 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:44:03.148 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:44:03.148 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:44:03.164 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:44:03.207 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:44:03.225 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:44:09.281 [error] <0.290.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {timeout,{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 11:44:09.282 [error] <0.290.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {timeout,{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 11:44:09.282 [error] <0.267.0> Supervisor {<0.267.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.290.0> exit with reason {timeout,{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 11:44:33.478 [error] <0.297.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {timeout,{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 11:44:33.478 [error] <0.297.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {timeout,{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 11:44:33.478 [error] <0.267.0> Supervisor {<0.267.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.297.0> exit with reason {timeout,{'Elixir.GenServer',call,[<0.288.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 11:52:43.366 [error] <0.216.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.221.0> exit with reason normal in context child_terminated
+2016-10-13 11:52:43.391 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:52:43.393 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:52:43.397 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:52:43.400 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:52:43.403 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:52:43.409 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:52:43.411 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:52:43.414 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:52:43.416 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:52:43.418 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:52:43.433 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:52:43.433 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:52:43.551 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:52:43.553 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:52:43.553 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:52:43.569 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:52:43.605 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:52:43.618 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:52:43.623 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 11:58:17.858 [error] <0.153.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.158.0> exit with reason normal in context child_terminated
+2016-10-13 11:58:17.883 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:58:17.885 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:58:17.888 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:58:17.891 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:58:17.893 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:58:17.899 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:58:17.902 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:58:17.903 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:58:17.905 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:58:17.907 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:58:17.922 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:58:17.922 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:58:18.029 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:58:18.032 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:58:18.032 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:58:18.049 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:58:18.098 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:58:18.115 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:58:18.121 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 11:59:08.418 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 11:59:08.441 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:59:08.443 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:59:08.447 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:59:08.449 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:59:08.452 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:59:08.458 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:59:08.460 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:59:08.462 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:59:08.465 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:59:08.467 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:59:08.481 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:59:08.481 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:59:08.592 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:59:08.595 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:59:08.595 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:59:08.622 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:59:08.666 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:59:08.684 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:59:08.690 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 11:59:44.241 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 11:59:44.266 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 11:59:44.268 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 11:59:44.272 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 11:59:44.274 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 11:59:44.276 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 11:59:44.282 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 11:59:44.285 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 11:59:44.286 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 11:59:44.289 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 11:59:44.291 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 11:59:44.304 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 11:59:44.304 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 11:59:44.416 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 11:59:44.419 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 11:59:44.419 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 11:59:44.437 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 11:59:44.518 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 11:59:44.548 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 11:59:44.558 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:02:14.933 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 12:02:14.958 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:02:14.960 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:02:14.964 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:02:14.966 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:02:14.969 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:02:14.975 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:02:14.980 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:02:14.983 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:02:14.986 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:02:14.989 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:02:15.008 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:02:15.008 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:02:15.139 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:02:15.141 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:02:15.142 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:02:15.165 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:02:15.218 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:02:15.238 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:02:15.247 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:03:39.286 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 12:03:39.307 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:03:39.309 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:03:39.312 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:03:39.315 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:03:39.317 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:03:39.323 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:03:39.326 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:03:39.328 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:03:39.329 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:03:39.332 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:03:39.345 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:03:39.345 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:03:39.451 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:03:39.454 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:03:39.454 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:03:39.471 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:03:39.514 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:03:39.531 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:03:39.539 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:06:17.795 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 12:06:17.819 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:06:17.821 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:06:17.825 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:06:17.827 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:06:17.830 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:06:17.836 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:06:17.838 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:06:17.840 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:06:17.842 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:06:17.844 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:06:17.857 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:06:17.857 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:06:17.974 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:06:17.977 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:06:17.977 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:06:17.996 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:06:18.041 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:06:18.059 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:06:18.066 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:06:41.421 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 12:06:41.446 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:06:41.448 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:06:41.452 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:06:41.458 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:06:41.461 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:06:41.468 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:06:41.470 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:06:41.472 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:06:41.474 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:06:41.476 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:06:41.498 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:06:41.498 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:06:41.634 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:06:41.636 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:06:41.637 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:06:41.662 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:06:41.720 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:06:41.747 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:06:41.756 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:09:06.507 [error] <0.153.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.158.0> exit with reason normal in context child_terminated
+2016-10-13 12:09:06.534 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:09:06.536 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:09:06.539 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:09:06.541 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:09:06.543 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:09:06.549 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:09:06.552 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:09:06.553 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:09:06.555 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:09:06.557 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:09:06.570 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:09:06.570 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:09:06.741 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:09:06.744 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:09:06.744 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:09:06.766 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:09:06.820 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:09:06.840 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:09:06.847 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:09:45.797 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 12:09:45.818 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:09:45.820 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:09:45.824 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:09:45.826 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:09:45.828 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:09:45.834 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:09:45.836 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:09:45.838 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:09:45.840 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:09:45.842 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:09:45.856 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:09:45.857 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:09:45.965 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:09:45.968 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:09:45.968 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:09:45.986 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:09:46.029 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:09:46.046 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:09:46.053 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:10:34.007 [error] <0.153.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.158.0> exit with reason normal in context child_terminated
+2016-10-13 12:10:34.032 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:10:34.034 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:10:34.037 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:10:34.040 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:10:34.042 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:10:34.048 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:10:34.050 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:10:34.052 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:10:34.053 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:10:34.055 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:10:34.072 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:10:34.072 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:10:34.183 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:10:34.185 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:10:34.185 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:10:34.201 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:10:34.244 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:10:34.261 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:10:34.268 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:16:22.259 [error] <0.171.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.176.0> exit with reason normal in context child_terminated
+2016-10-13 12:16:22.307 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:16:22.310 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:16:22.315 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:16:22.318 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:16:22.322 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:16:22.331 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:16:22.334 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:16:22.336 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:16:22.338 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:16:22.341 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:16:22.362 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:16:22.362 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:16:22.496 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:16:22.498 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:16:22.498 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:16:22.514 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:16:22.564 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:16:22.579 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:21:42.447 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 12:21:42.469 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:21:42.471 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:21:42.475 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:21:42.477 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:21:42.479 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:21:42.487 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:21:42.491 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:21:42.494 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:21:42.495 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:21:42.497 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:21:42.511 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:21:42.511 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:21:42.626 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:21:42.629 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:21:42.629 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:21:42.646 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:21:42.691 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:21:42.706 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:22:18.317 [error] <0.285.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {timeout,{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,12]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 12:22:18.317 [error] <0.285.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {timeout,{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,12]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 12:22:18.317 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.285.0> exit with reason {timeout,{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,12]},5000]}} in context child_terminated
+2016-10-13 12:29:53.724 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 12:29:53.746 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:29:53.748 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:29:53.753 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:29:53.755 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:29:53.758 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:29:53.764 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:29:53.766 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:29:53.768 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:29:53.769 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:29:53.771 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:29:53.784 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:29:53.784 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:29:53.892 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:29:53.894 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:29:53.894 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:29:53.912 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:29:53.957 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:29:53.971 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:29:53.977 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:32:03.904 [error] <0.142.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.147.0> exit with reason normal in context child_terminated
+2016-10-13 12:32:03.926 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:32:03.928 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:32:03.932 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:32:03.934 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:32:03.937 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:32:03.942 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:32:03.945 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:32:03.946 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:32:03.948 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:32:03.950 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:32:03.965 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:32:03.965 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:32:04.078 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:32:04.080 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:32:04.080 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:32:04.098 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:32:04.142 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:32:04.163 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:32:04.169 [info] <0.7.0> Application espec started on node nonode@nohost
+2016-10-13 12:37:32.254 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 12:37:32.278 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:37:32.280 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:37:32.284 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:37:32.286 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:37:32.288 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:37:32.293 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:37:32.295 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:37:32.296 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:37:32.298 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:37:32.299 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:37:32.314 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:37:32.314 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:37:32.421 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:37:32.423 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:37:32.423 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:37:32.439 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:37:32.484 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:37:32.499 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:39:05.259 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 12:39:05.283 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:39:05.285 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:39:05.288 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:39:05.290 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:39:05.292 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:39:05.298 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:39:05.300 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:39:05.302 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:39:05.304 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:39:05.305 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:39:05.318 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:39:05.318 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:39:05.434 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:39:05.436 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:39:05.436 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:39:05.453 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:39:05.498 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:39:05.513 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:39:18.434 [error] <0.283.0> gen_server <0.283.0> terminated with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 25
+2016-10-13 12:39:18.434 [error] <0.283.0> CRASH REPORT Process <0.283.0> with 0 neighbours exited with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 25 in gen_server:terminate/7 line 826
+2016-10-13 12:39:18.435 [error] <0.284.0> gen_server <0.284.0> terminated with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 25
+2016-10-13 12:39:18.441 [error] <0.285.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{{badmatch,{error,fsm}},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 12:39:18.441 [error] <0.284.0> CRASH REPORT Process <0.284.0> with 0 neighbours exited with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 25 in gen_server:terminate/7 line 826
+2016-10-13 12:39:18.441 [error] <0.285.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{{badmatch,{error,fsm}},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 12:39:18.441 [error] <0.264.0> Supervisor {<0.264.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.283.0> exit with reason no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 25 in context child_terminated
+2016-10-13 12:39:18.441 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.285.0> exit with reason {{{badmatch,{error,fsm}},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 12:40:02.078 [error] <0.165.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.170.0> exit with reason normal in context child_terminated
+2016-10-13 12:40:02.101 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:40:02.103 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:40:02.106 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:40:02.108 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:40:02.111 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:40:02.116 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:40:02.118 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:40:02.120 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:40:02.121 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:40:02.123 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:40:02.137 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:40:02.138 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:40:02.249 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:40:02.251 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:40:02.252 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:40:02.268 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:40:02.312 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:40:02.326 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:40:03.225 [error] <0.289.0> gen_server <0.289.0> terminated with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 26
+2016-10-13 12:40:03.225 [error] <0.289.0> CRASH REPORT Process <0.289.0> with 0 neighbours exited with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 26 in gen_server:terminate/7 line 826
+2016-10-13 12:40:03.226 [error] <0.290.0> gen_server <0.290.0> terminated with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 26
+2016-10-13 12:40:03.226 [error] <0.290.0> CRASH REPORT Process <0.290.0> with 0 neighbours exited with reason: no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 26 in gen_server:terminate/7 line 826
+2016-10-13 12:40:03.231 [error] <0.291.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{{badmatch,{error,fsm}},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,26}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.289.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 12:40:03.231 [error] <0.291.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{{badmatch,{error,fsm}},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,26}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.289.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 12:40:03.231 [error] <0.270.0> Supervisor {<0.270.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.289.0> exit with reason no match of right hand value {error,fsm} in 'Elixir.KaribuexCli.Requester':handle_call/3 line 26 in context child_terminated
+2016-10-13 12:40:03.232 [error] <0.268.0> Supervisor {<0.268.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.291.0> exit with reason {{{badmatch,{error,fsm}},[{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,26}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.289.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 12:48:55.938 [error] <0.300.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {timeout,{'Elixir.GenServer',call,[<0.298.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 12:48:55.938 [error] <0.300.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {timeout,{'Elixir.GenServer',call,[<0.298.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 12:48:55.939 [error] <0.268.0> Supervisor {<0.268.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.300.0> exit with reason {timeout,{'Elixir.GenServer',call,[<0.298.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 12:57:33.767 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 12:57:33.792 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:57:33.794 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:57:33.799 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:57:33.800 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:57:33.802 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:57:33.807 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:57:33.810 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:57:33.811 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:57:33.812 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:57:33.814 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:57:33.827 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:57:33.827 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:57:33.945 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:57:33.947 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:57:33.947 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:57:33.966 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:57:34.057 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:57:34.082 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:57:45.793 [error] <0.285.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {timeout,{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 12:57:45.793 [error] <0.285.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {timeout,{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 12:57:45.794 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.285.0> exit with reason {timeout,{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 12:59:22.128 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 12:59:22.149 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:59:22.151 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:59:22.155 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:59:22.157 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:59:22.159 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:59:22.166 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:59:22.170 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:59:22.171 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:59:22.173 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:59:22.175 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:59:22.188 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:59:22.188 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:59:22.316 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:59:22.320 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:59:22.320 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:59:22.339 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:59:22.390 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:59:22.407 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:59:46.853 [error] <0.148.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.153.0> exit with reason normal in context child_terminated
+2016-10-13 12:59:46.875 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 12:59:46.877 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 12:59:46.881 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 12:59:46.882 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 12:59:46.884 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 12:59:46.890 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 12:59:46.891 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 12:59:46.893 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 12:59:46.895 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 12:59:46.896 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 12:59:46.912 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 12:59:46.912 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 12:59:47.025 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 12:59:47.028 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 12:59:47.028 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 12:59:47.047 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 12:59:47.091 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 12:59:47.112 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 12:59:56.569 [error] <0.272.0> gen_server <0.272.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 12:59:56.569 [error] <0.272.0> CRASH REPORT Process <0.272.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 12:59:56.570 [error] <0.273.0> gen_server <0.273.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 12:59:56.570 [error] <0.273.0> CRASH REPORT Process <0.273.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 12:59:56.575 [error] <0.274.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in 'Elixir.GenServer':call/3 line 604
+2016-10-13 12:59:56.575 [error] <0.274.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in gen_server:terminate/7 line 826
+2016-10-13 12:59:56.575 [error] <0.253.0> Supervisor {<0.253.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.272.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 12:59:56.575 [error] <0.251.0> Supervisor {<0.251.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.274.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 13:00:11.929 [error] <0.281.0> gen_server <0.281.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:11.929 [error] <0.281.0> CRASH REPORT Process <0.281.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:11.929 [error] <0.253.0> Supervisor {<0.253.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.281.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 13:00:11.931 [error] <0.283.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in 'Elixir.GenServer':call/3 line 604
+2016-10-13 13:00:11.932 [error] <0.283.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in gen_server:terminate/7 line 826
+2016-10-13 13:00:11.933 [error] <0.282.0> gen_server <0.282.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:11.933 [error] <0.282.0> CRASH REPORT Process <0.282.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:11.933 [error] <0.251.0> Supervisor {<0.251.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.283.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 13:00:16.747 [error] <0.148.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.153.0> exit with reason normal in context child_terminated
+2016-10-13 13:00:16.771 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 13:00:16.774 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 13:00:16.780 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 13:00:16.782 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 13:00:16.784 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 13:00:16.789 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 13:00:16.791 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 13:00:16.792 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 13:00:16.794 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 13:00:16.796 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 13:00:16.810 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 13:00:16.810 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 13:00:16.919 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 13:00:16.921 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 13:00:16.921 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 13:00:16.939 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 13:00:16.983 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 13:00:17.002 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 13:00:18.785 [error] <0.272.0> gen_server <0.272.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:18.786 [error] <0.272.0> CRASH REPORT Process <0.272.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:18.786 [error] <0.273.0> gen_server <0.273.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:18.787 [error] <0.273.0> CRASH REPORT Process <0.273.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:00:18.787 [error] <0.253.0> Supervisor {<0.253.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.272.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 13:00:18.792 [error] <0.274.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in 'Elixir.GenServer':call/3 line 604
+2016-10-13 13:00:18.792 [error] <0.274.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in gen_server:terminate/7 line 826
+2016-10-13 13:00:18.792 [error] <0.251.0> Supervisor {<0.251.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.274.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 13:02:12.779 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 13:02:12.803 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 13:02:12.805 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 13:02:12.809 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 13:02:12.811 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 13:02:12.813 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 13:02:12.818 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 13:02:12.820 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 13:02:12.822 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 13:02:12.824 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 13:02:12.825 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 13:02:12.840 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 13:02:12.840 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 13:02:12.949 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 13:02:12.951 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 13:02:12.951 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 13:02:12.968 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 13:02:13.012 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 13:02:13.028 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 13:02:37.373 [error] <0.283.0> gen_server <0.283.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:02:37.373 [error] <0.283.0> CRASH REPORT Process <0.283.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:02:37.374 [error] <0.284.0> gen_server <0.284.0> terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:02:37.374 [error] <0.284.0> CRASH REPORT Process <0.284.0> with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24
+2016-10-13 13:02:37.374 [error] <0.264.0> Supervisor {<0.264.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.283.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 13:02:37.378 [error] <0.285.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in 'Elixir.GenServer':call/3 line 604
+2016-10-13 13:02:37.378 [error] <0.285.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in gen_server:terminate/7 line 826
+2016-10-13 13:02:37.379 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.285.0> exit with reason bad argument in 'Elixir.KaribuexCli.Requester':handle_call/3 line 24 in context child_terminated
+2016-10-13 13:03:30.117 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 13:03:30.141 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 13:03:30.143 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 13:03:30.146 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 13:03:30.148 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 13:03:30.150 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 13:03:30.155 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 13:03:30.157 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 13:03:30.159 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 13:03:30.160 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 13:03:30.162 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 13:03:30.175 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 13:03:30.175 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 13:03:30.341 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 13:03:30.344 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 13:03:30.345 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 13:03:30.366 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 13:03:30.421 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 13:03:30.440 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 13:07:20.897 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 13:07:20.921 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 13:07:20.923 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 13:07:20.927 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 13:07:20.929 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 13:07:20.931 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 13:07:20.939 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 13:07:20.941 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 13:07:20.942 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 13:07:20.944 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 13:07:20.946 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 13:07:20.962 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 13:07:20.963 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 13:07:21.128 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 13:07:21.132 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 13:07:21.132 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 13:07:21.158 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 13:07:21.216 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 13:07:21.235 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 13:07:32.236 [error] <0.283.0> gen_server <0.283.0> terminated with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,...>>) line 85
+2016-10-13 13:07:32.236 [error] <0.283.0> CRASH REPORT Process <0.283.0> with 0 neighbours exited with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,...>>) line 85 in gen_server:terminate/7 line 826
+2016-10-13 13:07:32.237 [error] <0.284.0> gen_server <0.284.0> terminated with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,...>>) line 85
+2016-10-13 13:07:32.237 [error] <0.284.0> CRASH REPORT Process <0.284.0> with 0 neighbours exited with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,...>>) line 85 in gen_server:terminate/7 line 826
+2016-10-13 13:07:32.238 [error] <0.264.0> Supervisor {<0.264.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.283.0> exit with reason no function clause matching ezmq:send(<0.284.0>, <<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,...>>) line 85 in context child_terminated
+2016-10-13 13:07:32.242 [error] <0.285.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{function_clause,[{ezmq,send,[<0.284.0>,<<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,77,111,100,117,108,101,84,101,115,116,164,101,99,104,111,145,10>>],[{file,"src/ezmq.erl"},{line,85}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"pro..."},...]}]},...} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 13:07:32.242 [error] <0.285.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{function_clause,[{ezmq,send,[<0.284.0>,<<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,77,111,100,117,108,101,84,101,115,116,164,101,99,104,111,145,10>>],[{file,"src/ezmq.erl"},{line,85}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"pro..."},...]}]},...} in gen_server:terminate/7 line 826
+2016-10-13 13:07:32.243 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.285.0> exit with reason {{function_clause,[{ezmq,send,[<0.284.0>,<<149,0,180,48,98,100,55,101,97,56,49,102,53,49,97,50,98,52,50,48,100,100,97,174,85,115,101,114,77,111,100,117,108,101,84,101,115,116,164,101,99,104,111,145,10>>],[{file,"src/ezmq.erl"},{line,85}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"pro..."},...]}]},...} in context child_terminated
+2016-10-13 14:13:07.410 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 14:13:07.439 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:13:07.441 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:13:07.445 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:13:07.447 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:13:07.450 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:13:07.457 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:13:07.459 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:13:07.461 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:13:07.463 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:13:07.465 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:13:07.484 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:13:07.484 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:13:07.610 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:13:07.614 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:13:07.614 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:13:07.635 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:13:07.682 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:13:07.698 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 14:13:19.066 [error] <0.283.0> gen_server <0.283.0> terminated with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,...>>) line 85
+2016-10-13 14:13:19.067 [error] <0.283.0> CRASH REPORT Process <0.283.0> with 0 neighbours exited with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,...>>) line 85 in gen_server:terminate/7 line 826
+2016-10-13 14:13:19.068 [error] <0.284.0> gen_server <0.284.0> terminated with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,...>>) line 85
+2016-10-13 14:13:19.068 [error] <0.284.0> CRASH REPORT Process <0.284.0> with 0 neighbours exited with reason: no function clause matching ezmq:send(<0.284.0>, <<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,...>>) line 85 in gen_server:terminate/7 line 826
+2016-10-13 14:13:19.074 [error] <0.285.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{function_clause,[{ezmq,send,[<0.284.0>,<<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,77,111,100,117,108,101,84,101,115,116,164,101,99,104,111,145,10,0>>],[{file,"src/ezmq.erl"},{line,85}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"p..."},...]}]},...} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 14:13:19.075 [error] <0.285.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{function_clause,[{ezmq,send,[<0.284.0>,<<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,77,111,100,117,108,101,84,101,115,116,164,101,99,104,111,145,10,0>>],[{file,"src/ezmq.erl"},{line,85}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"p..."},...]}]},...} in gen_server:terminate/7 line 826
+2016-10-13 14:13:19.075 [error] <0.264.0> Supervisor {<0.264.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.283.0> exit with reason no function clause matching ezmq:send(<0.284.0>, <<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,...>>) line 85 in context child_terminated
+2016-10-13 14:13:19.075 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.285.0> exit with reason {{function_clause,[{ezmq,send,[<0.284.0>,<<149,0,180,52,53,98,51,98,55,97,55,50,99,101,97,102,54,48,52,102,101,102,98,174,85,115,101,114,77,111,100,117,108,101,84,101,115,116,164,101,99,104,111,145,10,0>>],[{file,"src/ezmq.erl"},{line,85}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,25}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"p..."},...]}]},...} in context child_terminated
+2016-10-13 14:13:58.892 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 14:13:58.925 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:13:58.927 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:13:58.931 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:13:58.934 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:13:58.937 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:13:58.944 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:13:58.947 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:13:58.948 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:13:58.950 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:13:58.953 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:13:58.969 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:13:58.970 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:13:59.084 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:13:59.087 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:13:59.087 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:13:59.103 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:13:59.147 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:13:59.163 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 14:15:12.830 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 14:15:12.878 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:15:12.882 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:15:12.889 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:15:12.892 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:15:12.896 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:15:12.909 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:15:12.913 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:15:12.916 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:15:12.919 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:15:12.923 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:15:12.944 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:15:12.944 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:15:13.091 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:15:13.094 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:15:13.094 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:15:13.113 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:15:13.186 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:15:13.218 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 14:17:43.365 [error] <0.283.0> gen_server <0.283.0> terminated with reason: no such process or port in call to gen_server:call(<0.284.0>, {connect,tcp,{127,0,0,1},5000,[]}) in gen_server:call/2 line 204
+2016-10-13 14:17:43.366 [error] <0.283.0> CRASH REPORT Process <0.283.0> with 0 neighbours exited with reason: no such process or port in call to gen_server:call(<0.284.0>, {connect,tcp,{127,0,0,1},5000,[]}) in gen_server:terminate/7 line 826
+2016-10-13 14:17:43.366 [error] <0.264.0> Supervisor {<0.264.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.283.0> exit with reason no such process or port in call to gen_server:call(<0.284.0>, {connect,tcp,{127,0,0,1},5000,[]}) in context child_terminated
+2016-10-13 14:17:43.366 [error] <0.285.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{noproc,{gen_server,call,[<0.284.0>,{connect,tcp,{127,0,0,1},5000,[]}]}},{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 14:17:43.367 [error] <0.285.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{noproc,{gen_server,call,[<0.284.0>,{connect,tcp,{127,0,0,1},5000,[]}]}},{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 14:17:43.367 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.285.0> exit with reason {{noproc,{gen_server,call,[<0.284.0>,{connect,tcp,{127,0,0,1},5000,[]}]}},{'Elixir.GenServer',call,[<0.283.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 14:19:00.019 [error] <0.165.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.170.0> exit with reason normal in context child_terminated
+2016-10-13 14:19:00.042 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:19:00.044 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:19:00.048 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:19:00.049 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:19:00.051 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:19:00.056 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:19:00.058 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:19:00.060 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:19:00.061 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:19:00.063 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:19:00.076 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:19:00.077 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:19:00.186 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:19:00.188 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:19:00.188 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:19:00.204 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:19:00.242 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:19:00.257 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 14:19:04.541 [error] <0.289.0> gen_server <0.289.0> terminated with reason: call to undefined function ezmq:disconnect/1 from 'Elixir.KaribuexCli.Requester':handle_call/3 line 30
+2016-10-13 14:19:04.541 [error] <0.289.0> CRASH REPORT Process <0.289.0> with 0 neighbours exited with reason: call to undefined function ezmq:disconnect(<0.290.0>) in gen_server:terminate/7 line 826
+2016-10-13 14:19:04.548 [error] <0.291.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{undef,[{ezmq,disconnect,[<0.290.0>],[]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,30}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.289.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 14:19:04.552 [error] <0.290.0> gen_server <0.290.0> terminated with reason: call to undefined function ezmq:disconnect/1 from 'Elixir.KaribuexCli.Requester':handle_call/3 line 30
+2016-10-13 14:19:04.552 [error] <0.291.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{undef,[{ezmq,disconnect,[<0.290.0>],[]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,30}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.289.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 14:19:04.552 [error] <0.290.0> CRASH REPORT Process <0.290.0> with 0 neighbours exited with reason: call to undefined function ezmq:disconnect(<0.290.0>) in gen_server:terminate/7 line 826
+2016-10-13 14:19:04.553 [error] <0.268.0> Supervisor {<0.268.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.291.0> exit with reason {{undef,[{ezmq,disconnect,[<0.290.0>],[]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,30}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.289.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 14:19:04.553 [error] <0.270.0> Supervisor {<0.270.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.289.0> exit with reason call to undefined function ezmq:disconnect(<0.290.0>) in context child_terminated
+2016-10-13 14:22:21.857 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 14:22:21.884 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:22:21.887 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:22:21.892 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:22:21.894 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:22:21.896 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:22:21.904 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:22:21.907 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:22:21.909 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:22:21.911 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:22:21.914 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:22:21.929 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:22:21.929 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:22:22.076 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:22:22.080 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:22:22.080 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:22:22.101 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:22:22.153 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:22:22.168 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 14:22:28.567 [error] <0.274.0> gen_server <0.274.0> terminated with reason: call to undefined function ezmq:disconnect/1 from 'Elixir.KaribuexCli.Requester':handle_call/3 line 27
+2016-10-13 14:22:28.567 [error] <0.274.0> CRASH REPORT Process <0.274.0> with 0 neighbours exited with reason: call to undefined function ezmq:disconnect(<0.279.0>) in gen_server:terminate/7 line 826
+2016-10-13 14:22:28.568 [error] <0.264.0> Supervisor {<0.264.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.274.0> exit with reason call to undefined function ezmq:disconnect(<0.279.0>) in context child_terminated
+2016-10-13 14:22:28.575 [error] <0.275.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{undef,[{ezmq,disconnect,[<0.279.0>],[]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,27}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.274.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 14:22:28.575 [error] <0.275.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{undef,[{ezmq,disconnect,[<0.279.0>],[]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,27}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.274.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in gen_server:terminate/7 line 826
+2016-10-13 14:22:28.576 [error] <0.262.0> Supervisor {<0.262.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.275.0> exit with reason {{undef,[{ezmq,disconnect,[<0.279.0>],[]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,27}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.274.0>,{execute,<<"127.0.0.1:5000">>,[<<"UserModuleTest">>,<<"echo">>,10]},5000]}} in context child_terminated
+2016-10-13 14:22:28.581 [error] <0.279.0> gen_server <0.279.0> terminated with reason: call to undefined function ezmq:disconnect/1 from 'Elixir.KaribuexCli.Requester':handle_call/3 line 27
+2016-10-13 14:22:28.581 [error] <0.279.0> CRASH REPORT Process <0.279.0> with 0 neighbours exited with reason: call to undefined function ezmq:disconnect(<0.279.0>) in gen_server:terminate/7 line 826
+2016-10-13 14:22:43.897 [error] <0.159.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.164.0> exit with reason normal in context child_terminated
+2016-10-13 14:22:43.920 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:22:43.923 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:22:43.927 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:22:43.929 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:22:43.931 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:22:43.936 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:22:43.938 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:22:43.939 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:22:43.940 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:22:43.942 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:22:43.955 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:22:43.955 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:22:44.068 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:22:44.071 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:22:44.071 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:22:44.088 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:22:44.134 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:22:44.145 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 14:25:59.093 [error] <0.148.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.153.0> exit with reason normal in context child_terminated
+2016-10-13 14:25:59.115 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:25:59.117 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:25:59.120 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:25:59.122 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:25:59.124 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:25:59.129 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:25:59.131 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:25:59.132 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:25:59.134 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:25:59.135 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:25:59.148 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:25:59.148 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:25:59.252 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:25:59.254 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:25:59.255 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:25:59.273 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:25:59.317 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:25:59.329 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
+2016-10-13 14:27:17.934 [error] <0.8794.0> Unable to load crypto library. Failed with error:
+"load, Library load-call unsuccessful."
+OpenSSL might not be installed on this system.
+
+2016-10-13 14:27:17.950 [warning] <0.8795.0> The on_load function for module crypto returned {error,{load,"Library load-call unsuccessful."}}
+2016-10-13 14:27:17.958 [error] <0.263.0> gen_server <0.263.0> terminated with reason: {'module could not be loaded',[{crypto,strong_rand_bytes,"\n",[]},{'Elixir.SecureRandom',hex,1,[{file,"lib/secure_random.ex"},{line,56}]},{'Elixir.KaribuexCli.Request',new,3,[{file,"lib/request.ex"},{line,7}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,16}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+2016-10-13 14:27:17.958 [error] <0.263.0> CRASH REPORT Process <0.263.0> with 0 neighbours exited with reason: call to undefined function crypto:strong_rand_bytes(10) in gen_server:terminate/7 line 826
+2016-10-13 14:27:17.966 [error] <0.264.0> gen_server 'Elixir.KaribuexCli.Client' terminated with reason: {{undef,[{crypto,strong_rand_bytes,"\n",[]},{'Elixir.SecureRandom',hex,1,[{file,"lib/secure_random.ex"},{line,56}]},{'Elixir.KaribuexCli.Request',new,3,[{file,"lib/request.ex"},{line,7}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,16}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.263.0>,...]}} in 'Elixir.GenServer':call/3 line 604
+2016-10-13 14:27:17.966 [error] <0.253.0> Supervisor {<0.253.0>,poolboy_sup} had child undefined started with {'Elixir.KaribuexCli.Requester',start_link,undefined} at <0.263.0> exit with reason call to undefined function crypto:strong_rand_bytes(10) in context child_terminated
+2016-10-13 14:27:17.966 [error] <0.264.0> CRASH REPORT Process 'Elixir.KaribuexCli.Client' with 0 neighbours exited with reason: {{undef,[{crypto,strong_rand_bytes,"\n",[]},{'Elixir.SecureRandom',hex,1,[{file,"lib/secure_random.ex"},{line,56}]},{'Elixir.KaribuexCli.Request',new,3,[{file,"lib/request.ex"},{line,7}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,16}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.263.0>,...]}} in gen_server:terminate/7 line 826
+2016-10-13 14:27:17.966 [error] <0.251.0> Supervisor {<0.251.0>,'Elixir.KaribuexCli.Supervisor'} had child undefined started with 'Elixir.KaribuexCli.Client':start_link(#{mercure_service => <<>>,my_test => <<"127.0.0.1:5000">>,sap_bridge => <<"192.168.0.1:9000">>}) at <0.264.0> exit with reason {{undef,[{crypto,strong_rand_bytes,"\n",[]},{'Elixir.SecureRandom',hex,1,[{file,"lib/secure_random.ex"},{line,56}]},{'Elixir.KaribuexCli.Request',new,3,[{file,"lib/request.ex"},{line,7}]},{'Elixir.KaribuexCli.Requester',handle_call,3,[{file,"lib/requester.ex"},{line,16}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},{'Elixir.GenServer',call,[<0.263.0>,...]}} in context child_terminated
+2016-10-13 14:27:33.546 [error] <0.148.0> Supervisor 'Elixir.Logger.Supervisor' had child undefined started with 'Elixir.Logger.Watcher':watcher(error_logger, 'Elixir.Logger.ErrorHandler', {true,false,500}, link) at <0.153.0> exit with reason normal in context child_terminated
+2016-10-13 14:27:33.569 [info] <0.7.0> Application lager started on node nonode@nohost
+2016-10-13 14:27:33.570 [info] <0.7.0> Application gen_listener_tcp started on node nonode@nohost
+2016-10-13 14:27:33.574 [info] <0.7.0> Application ezmq started on node nonode@nohost
+2016-10-13 14:27:33.576 [info] <0.7.0> Application poolboy started on node nonode@nohost
+2016-10-13 14:27:33.578 [info] <0.7.0> Application msgpax started on node nonode@nohost
+2016-10-13 14:27:33.583 [info] <0.7.0> Application idna started on node nonode@nohost
+2016-10-13 14:27:33.584 [info] <0.7.0> Application mimerl started on node nonode@nohost
+2016-10-13 14:27:33.586 [info] <0.7.0> Application certifi started on node nonode@nohost
+2016-10-13 14:27:33.587 [info] <0.7.0> Application ssl_verify_fun started on node nonode@nohost
+2016-10-13 14:27:33.589 [info] <0.7.0> Application metrics started on node nonode@nohost
+2016-10-13 14:27:33.602 [info] <0.7.0> Application hackney started on node nonode@nohost
+2016-10-13 14:27:33.603 [info] <0.7.0> Application httpoison started on node nonode@nohost
+2016-10-13 14:27:33.713 [info] <0.7.0> Application mnesia started on node nonode@nohost
+2016-10-13 14:27:33.716 [info] <0.7.0> Application deppie started on node nonode@nohost
+2016-10-13 14:27:33.716 [info] <0.7.0> Application eternal started on node nonode@nohost
+2016-10-13 14:27:33.733 [info] <0.7.0> Application cachex started on node nonode@nohost
+2016-10-13 14:27:33.776 [info] <0.7.0> Application convulse started on node nonode@nohost
+2016-10-13 14:27:33.788 [info] <0.7.0> Application karibuex_cli started on node nonode@nohost
