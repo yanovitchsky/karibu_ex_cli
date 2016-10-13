@@ -7,11 +7,13 @@ defmodule KaribuexCli.Client do
 
   # API
   def call(service_name, payload) when is_binary(service_name) do
-    GenServer.call(__MODULE__, {:call, String.to_atom(service_name), payload})
+    response = GenServer.call(__MODULE__, {:call, String.to_atom(service_name), payload})
+    handle_response(response)
   end
 
   def call(service_name, payload) when is_atom(service_name) do
-    GenServer.call(__MODULE__, {:call, service_name, payload})
+    response = GenServer.call(__MODULE__, {:call, service_name, payload})
+    handle_response(response)
   end
 
   # Callbacks
@@ -58,6 +60,19 @@ defmodule KaribuexCli.Client do
       {:error, reason} -> {:error, reason}
     end
   end
+
+  defp handle_response(response) do
+    IO.inspect response
+    case response do
+      {:ok, resp} ->
+        if resp.error != nil do
+          {:error, resp.error}
+        else
+          {:ok, resp.result}
+        end
+      {:error, reason} -> {:error, reason}
+    end
+  end
 end
 
 # KaribuexCli.Client.call(:sap_bridge, ["XenaController", "query", params])
@@ -65,4 +80,4 @@ end
 # KaribuCli.Client.call(:xena, ["XenaController", "query", params])
 
 # KaribuexCli.Client.call(:my_test, ["UserModuleTest", "echo", 10])
-# for _ <- 1..10 do KaribuexCli.Client.call(:my_test, ["UserModuleTest", "echo", 10]) end
+# for _ <- 1..10 do Task.async(fn -> KaribuexCli.Client.call(:my_test, ["UserModuleTest", "echo", 10]) end) end
