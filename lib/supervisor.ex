@@ -10,11 +10,12 @@ defmodule KaribuexCli.Supervisor do
   end
 
   def init(config) do
+    pool_size = config[:pool_size] || 10
     request_pool_options = [
       name: {:local, :request_pool},
       worker_module: KaribuexCli.Requester,
-      size: config[:pool_size],
-      max_overflow: round(config[:pool_size]/2)
+      size: pool_size,
+      max_overflow: round(pool_size/2)
     ]
     # raise inspect(request_pool_options)
 

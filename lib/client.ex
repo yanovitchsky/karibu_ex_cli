@@ -18,17 +18,14 @@ defmodule KaribuexCli.Client do
 
   # Callbacks
   def init(services) do
-    IO.inspect "J init"
     {:ok, services}
   end
 
   def handle_call({:call, service_name, payload}, _from, services) do
     if is_defined?(services, service_name) do
       :poolboy.transaction(:request_pool, fn(worker) ->
-        IO.inspect "worker pid: #{inspect(worker)}"
         case get_connection_string(services, service_name) do
           {:ok, uri} ->
-            IO.inspect uri
             {:reply, {:ok, KaribuexCli.Requester.call(worker, uri, payload)}, services}
           {:error, reason} -> {:reply, {:error, reason}, services}
         end
@@ -62,7 +59,6 @@ defmodule KaribuexCli.Client do
   end
 
   defp handle_response(response) do
-    IO.inspect response
     case response do
       {:ok, resp} ->
         if resp.error != nil do

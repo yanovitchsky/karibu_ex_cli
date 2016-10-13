@@ -36,7 +36,7 @@ config :karibuex_cli, services: %{
   my_test: "127.0.0.1:5000"
 }
 
-config :karibuex_cli, pool_size: 10
+# config :karibuex_cli, pool_size: 10
 # config :karibuex_cli, services: [
 #   :mercure_service,
 #   :sap_bridge
